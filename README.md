@@ -1,1 +1,1 @@
-MINST dataset from -> tensorflow dataset
+MNIST dataset from -> tensorflow dataset
